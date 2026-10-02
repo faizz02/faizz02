@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm FAIZ</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://lottie.host/22a644ef-0e8e-4441-b14e-83ad56a97680/bsisIcqRgv.lottie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faizz02&label=Profile%20views&color=0e75b6&style=flat" alt="faizz02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=faizz02" alt="faizz02](https://lottie.host/22a644ef-0e8e-4441-b14e-83ad56a97680/bsisIcqRgv.lottie)" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizz02" alt="faizz02" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
