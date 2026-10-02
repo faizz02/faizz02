@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://lottie.host/22a644ef-0e8e-4441-b14e-83ad56a97680/bsisIcqRgv.lottie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizz02" alt="faizz02" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=faizz02" alt="faizz02](https://lottie.host/22a644ef-0e8e-4441-b14e-83ad56a97680/bsisIcqRgv.lottie)" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
